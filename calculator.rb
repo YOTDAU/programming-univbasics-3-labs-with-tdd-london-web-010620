@@ -8,5 +8,6 @@ sum = first_number + second_number  #test 3
 
 difference = first_number - second_number
 
-product
+product = first_number * second_number
 
+quotient = first_number / second_number
