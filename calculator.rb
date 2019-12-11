@@ -7,3 +7,6 @@ sum = first_number + second_number  #test 3
 #subtract, ,multiple, divide
 
 difference = first_number - second_number
+
+product
+
